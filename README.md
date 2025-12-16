@@ -1,2 +1,5 @@
-# my-first-project
-Мой первый проект на GitHub
+# My First Project
+Мой первый проект на GitHub для изучения Git.
+
+## Описание
+Этот репозиторий содержит простой Python-скрипт, выводящий "Hello, World!"
